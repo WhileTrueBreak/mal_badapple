@@ -6,10 +6,6 @@
   display: none;
 }
 
-.list-table-data{
-  display: none;
-}
-
 .list-item::before{
   font-family: monospace;
   content: "";
