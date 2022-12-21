@@ -2,10 +2,6 @@
   display: none;
 }
 
-.list-table-header{
-  display: none;
-}
-
 .list-item::before{
   font-family: monospace;
   content: "";
