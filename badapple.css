@@ -2,7 +2,16 @@
   display: none;
 }
 
+.list-table-header{
+  display: none;
+}
+
+.list-table-data{
+  display: none;
+}
+
 .list-item::before{
+  white-space: pre-wrap;
   font-family: monospace;
   content: "";
 }
