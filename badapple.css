@@ -1,16 +1,8 @@
-@\import "https://whiletruebreak.github.io/badapple.css";
-
 .list-menu-float{
   display: none;
 }
 
 .list-table-header{
-  display: none;
-}
-
-.image,
-.content-status,
-.add-edit-more{
   display: none;
 }
 
