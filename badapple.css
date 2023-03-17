@@ -5,6 +5,7 @@
   animation-name: badapple;
   animation-duration: 219s;
   animation-iteration-count: infinite;
+  display: block;
 }
 
 @keyframes badapple {
